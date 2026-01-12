@@ -1,4 +1,4 @@
-# Intelligent Quote Generator 🌿✨
+# 🌿 ZenQuotes AI - Intelligent Generator
 
 A simple, powerful, and clean AI-powered quote generator built with **Streamlit** and **Groq**.
 
